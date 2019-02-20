@@ -1,0 +1,28 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "sapM1.mzn",
+        "sapM2.mzn"
+    ],
+    "openTab": 1,
+    "projectFiles": [
+        "SAP-data/sap_005_02.dzn",
+        "SAP-data/sap_008_03.dzn",
+        "SAP-data/sap_010_05.dzn",
+        "SAP-data/sap_010_06.dzn",
+        "SAP-data/sap_015_10.dzn",
+        "SAP-data/sap_030_05.dzn",
+        "SAP-data/sap_030_10.dzn",
+        "SAP-data/sap_100_15.dzn",
+        "SAP-data/sap_150_15.dzn",
+        "SAP-data/sap_200_15.dzn",
+        "sapM1.mzn",
+        "sapM2.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.0",
+    "version": 105
+}
